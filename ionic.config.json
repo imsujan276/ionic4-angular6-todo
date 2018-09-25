@@ -1,5 +1,7 @@
 {
   "name": "ionic4-angular6-todo",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
